@@ -1,5 +1,12 @@
 # Ejercicio 4 Prestamo de Videojuegos
 # José Pablo Quiej Ramirez 1190-22-6422
+# Descripción 
+
+Crear una aplicación para administrar una pequeña colección de videojuegos.
+Debe permitir registrar juegos indicando título, plataforma y género; registrar
+personas y realizar préstamos indicando juego, persona y fecha. La interfaz deberá
+mostrar claramente cuáles están Disponibles o Prestados, permitir realizar una
+devolución y consultar los préstamos realizados.
 
 # Capturas de funcionamiento 
 # Pantalla principal
